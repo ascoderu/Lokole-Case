@@ -1,2 +1,2 @@
 # lokole-case
-This is a 3D Printed case, I designed and developed for Ascoderu's Lokole Project.
+This is a custom designed 3D printable enclosure of the Lokole device. 
